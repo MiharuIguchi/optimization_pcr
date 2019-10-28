@@ -13,4 +13,5 @@ I write a code to know which value is the most suitable for my experiments, such
 
 #Credits
 reference:
-- [Protocols and background information about PCR and RT-PCR](https://www.promega.com/resources/guides/nucleic-acid-analysis/pcr-amplification/) 
+- [Protocols and background information about PCR and RT-PCR](https://www.promega.com/resources/guides/nucleic-acid-analysis/pcr-amplification/)
+- [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
